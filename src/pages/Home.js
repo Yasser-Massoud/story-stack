@@ -43,16 +43,16 @@ function Home() {
 	          <div className="descHeading">Tools</div>
 	          <div className="descBody">
 	            <Tdesc 
-	              descImgLogo="sublimelogo"
-	              descName="Sublime"
-	              imgType="png"
-	              descMain="Sublime Text is a proprietary cross-platform source code editor with a Python application programming interface (API)."
+	              descImgLogo="vscodelogo"
+	              descName="VsCode"
+	              imgType="jpg"
+	              descMain="Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git"
 	            />
 	            <Tdesc 
-	              descImgLogo="firefoxlogo"
-	              descName="Mozila FireFox"
-	              imgType="jpg"
-	              descMain="Mozilla Firefox is a free and open source web browser which is made by the Mozilla Foundationand its subsidiary, the Mozilla Corporation."
+	              descImgLogo="googlelogo"
+				  descName="Google chrom"
+	              imgType="png"
+	              descMain="Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android where it is the default browser built into the OS."
 	            />
 	            <Tdesc 
 	              descImgLogo="nodelogo"
@@ -64,7 +64,7 @@ function Home() {
 	        </div>
 	        <Banner 
 	          bannerHead="About Developer"
-	          bannerBody="Hello my name is Raj Chhatrala, and I am learning Front End development with React.js. I am intrested to know your suggetions, please contact me from links in footer"
+	          bannerBody="hello my is yasser im a full stack javascript developer graduated from RBK a RebootKamp powred by HackRactor "
 	        />
         </Fragment>
 	)
