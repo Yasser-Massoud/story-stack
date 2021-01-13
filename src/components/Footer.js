@@ -22,7 +22,7 @@ function Footer() {
 					Thanks
 				</div>
 				<div className="footerItemData">
-					Thanks to SoloLearn and Community members who Helps me a lot to learn new technology and help me build my projects, and thanks to Hacker News for awesome free API.
+					Thanks to RBK and Community members who Helps me a lot to learn new technology and help me build my projects, and thanks to Hacker News for awesome free API.
 				</div>
 			</div>
 			<div className="footerItem">
