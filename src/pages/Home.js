@@ -10,7 +10,7 @@ function Home() {
 		<Fragment>
 			<Banner 
 	          bannerHead="Welcome to Story Stack"
-	          bannerBody="This is a practice project in React.js, I am using Hacker News API to get all stories from users. you can provide me feedback at jslearner066@gmail.com"
+	          bannerBody="This is a practice project in React.js, I am using Hacker News API to get all stories from users. you can provide me feedback at yassermassoud000.com"
 	        />
 	        <div className="descRow">
 	          <div className="descHeading">Technology</div>

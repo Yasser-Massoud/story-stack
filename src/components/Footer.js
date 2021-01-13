@@ -12,7 +12,7 @@ function Footer() {
 				</div>
 				<div className="footerItemData">
 					<ul>
-						<li><a href="https://github.com/Yasser-Massoud">DeveloperRaj</a></li>
+						<li><a href="https://github.com/Yasser-Massoud">Yasser-Massoud</a></li>
 						<li><a href="https://github.com/Yasser-Massoud/story-stack">Story Stack Project Repo</a></li>
 					</ul>
 				</div>
@@ -32,14 +32,14 @@ function Footer() {
 				<div className="footerItemData">
 					You can contact me at : <br />
 					<ul>
-						<li><a href="https://www.instagram.com/raj_chhatrala/">Instagram</a></li>
-						<li><a href="https://www.sololearn.com/Profile/4991698">SoloLearn</a></li>
-						<li><a href="www.google.com">jslearner066@gmail.com</a></li>
+						<li><a href="https://www.instagram.com/y_e_s_e_r/?hl=en">Instagram</a></li>
+						
+						<li><a href="www.google.com">yassermassoud000@gmail.com</a></li>
 					</ul>
 				</div>
 			</div>
 		</footer>
-		<div className="copyright">All copyright&copy; reserved to Raj Chhatrala</div>
+		
 		</Fragment>
 	)
 }
