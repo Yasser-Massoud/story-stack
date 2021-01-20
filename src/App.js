@@ -6,7 +6,6 @@ import TopStories from './pages/TopStories';
 import AskStories from './pages/AskStories';
 import ShowStories from './pages/ShowStories';
 import JobStories from './pages/JobStories';
-import Comments from './pages/Comments';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
